@@ -1,0 +1,21 @@
+**Log on to Code Camp BD for more projects!***
+
+**Database Name: hms_code_camp_bd**
+
+**Developed by MH RONY**
+
+**Recommended PHP Version 7.4++**
+
+
+**Admin Login Details**
+
+Email   : admin@mail.com
+Password: Watch Youtube Video
+
+
+**Doctor Login Details**
+
+ID      : ccb
+Password: Watch Youtube Video
+
+

@@ -1,0 +1,31 @@
+<!-- Author By: MH RONY
+Author Website: https://developerrony.com
+Github Link: https://github.com/dev-mhrony
+Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+-->
+
+**Log on to Code Camp BD for more projects!***
+
+**Database Name: hms_code_camp_bd**
+
+**Developed by MH RONY**
+
+**Recommended PHP Version 7.4++**
+
+
+**Admin Login Details**
+
+Email   : admin@mail.com
+Password: (Password on the YouTube video)
+
+
+**Doctor Login Details**
+
+ID      : ccb
+Password: (Password on the YouTube video)
+
+<!-- Author By: MH RONY
+Author Website: https://developerrony.com
+Github Link: https://github.com/dev-mhrony
+Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+-->
