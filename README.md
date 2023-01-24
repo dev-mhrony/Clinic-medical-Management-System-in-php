@@ -1,4 +1,4 @@
-# Clinic-medical-Management-System-in-php
+# Clinic / Medical / Hospital Management System in php
 
 Clinic / medical Management System in php By Code Camp BD <br/>
 
