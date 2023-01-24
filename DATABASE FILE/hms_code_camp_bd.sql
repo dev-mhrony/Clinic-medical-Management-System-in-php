@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:3306
--- Generation Time: Jan 24, 2023 at 03:20 PM
+-- Generation Time: Jan 24, 2023 at 04:05 PM
 -- Server version: 8.0.30
 -- PHP Version: 8.1.10
 
@@ -65,7 +65,7 @@ CREATE TABLE `his_admin` (
 --
 
 INSERT INTO `his_admin` (`ad_id`, `ad_fname`, `ad_lname`, `ad_email`, `ad_pwd`, `ad_dpic`) VALUES
-(1, 'CodeCampBD', 'Administrator', 'admin@ccb.com', '4c7f5919e957f354d57243d37f223cf31e9e7181', 'doc-icon.png');
+(1, 'CodeCampBD', 'Administrator', 'admin@ccbd.com', '4c7f5919e957f354d57243d37f223cf31e9e7181', 'doc-icon.png');
 
 -- --------------------------------------------------------
 
@@ -105,7 +105,7 @@ CREATE TABLE `his_docs` (
 
 INSERT INTO `his_docs` (`doc_id`, `doc_fname`, `doc_lname`, `doc_email`, `doc_pwd`, `doc_dept`, `doc_number`, `doc_dpic`) VALUES
 (5, 'Aletha', 'White', 'aletha@mail.com', 'dce0b27ba675df41e9cc07af80ec59c475810824', 'Laboratory', 'BKTWQ', 'defaultimg.jpg'),
-(6, '', '', '', '55c3b5386c486feb662a0785f340938f518d547f', 'Surgery | Theatre', 'ccb', '03.webp'),
+(6, 'Doctor', '', '', '55c3b5386c486feb662a0785f340938f518d547f', 'Surgery | Theatre', 'ccbd', '03.webp'),
 (12, 'Jessica', 'Spencer', 'jessica@mail.com', 'dce0b27ba675df41e9cc07af80ec59c475810824', 'Accounting', '5VIFT', 'usric.png');
 
 -- --------------------------------------------------------
