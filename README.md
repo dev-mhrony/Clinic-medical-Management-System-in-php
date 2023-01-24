@@ -3,40 +3,16 @@
 Clinic / medical Management System in php By Code Camp BD <br/>
 
 ## Available Features:
-Admin Panel
-Employee Panel
-Patient Management
-Transfer, Discharge Patient
-Employee Management
-Assign Departments
-Transfer Employees
-Medicine Management
-Prescriptions
-Accounting – Payable and Receivable
-Inventory Management
-Assets Management
-In and Out Patient Records
-Medical Records
-Patient Lab Test and Results
-Manage Patient’s Vitals
-Lab Reports
-Surgery Records
-Surgery Equipment Records
-Patient Medical Profile
-Payroll Management
-Print Payroll Receipt
-Manage Vendors
 
+Admin Panel <br/> Employee Panel <br/> Patient Management <br/> Transfer, Discharge Patient <br/> Employee Management <br/> Assign Departments <br/> Transfer Employees <br/> Medicine Management <br/> Prescriptions <br/> Accounting – Payable and Receivable <br/> Inventory Management <br/> Assets Management <br/> In and Out Patient Records <br/> Medical Records <br/> Patient Lab Test and Results <br/> Manage Patient’s Vitals <br/> Lab Reports <br/> Surgery Records <br/> Surgery Equipment Records <br/> Patient Medical Profile <br/> Payroll Management <br/> Print Payroll Receipt <br/> Manage Vendors <br/>
 
 ## Admin Login Info Details
 
-userName: admin@ccbd.com <br/> 
-passWord: Watch Youtube Video () <br/>
+userName: admin@ccbd.com <br/> passWord: Watch Youtube Video () <br/>
 
 ## Doctor Login Info Details <br/>
 
-userName: ccbd <br/> 
-passWord: Watch Youtube Video ()
+userName: ccbd <br/> passWord: Watch Youtube Video ()
 
 Subcribe my You tube Channel ** Subscribe **
 
