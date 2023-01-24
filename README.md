@@ -1,21 +1,23 @@
 # Clinic-medical-Management-System-in-php
-Clinic / medical Management System in php By Code Camp BD
+Clinic / medical Management System in php By Code Camp BD <br/>
 
 ## Admin Login Info Details
-userName: admin
-passWord: Watch Youtube Video ()
+userName: admin <br/>
+passWord: Watch Youtube Video () <br/>
 
-## Doctor Login Info Details
-userName: ccbd
+## Doctor Login Info Details <br/>
+userName: ccbd <br/>
 passWord: Watch Youtube Video ()
 
 Subcribe my You tube Channel ** Subscribe **
 
-Author : MH RONY
-Website Link: https://developerrony.com
-GitHub Link: https://github.com/dev-mhrony
-Youtube Video Link:https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
-Youtube Channel Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+Author : MH RONY <br/>
+Website Link: https://developerrony.com <br/>
+GitHub Link: https://github.com/dev-mhrony <br/>
+Youtube Video <br/>
+Link:https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw <br/>
+Youtube Channel Link <br/>
+https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw <br/>
 
 ![screencapture-localhost-Hospital-PHP-backend-doc-index-php-2023-01-24-21_54_48](https://user-images.githubusercontent.com/78216965/214342824-414b2f18-45df-409e-be9c-81f48da78ddd.png)
 
