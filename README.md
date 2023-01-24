@@ -4,11 +4,13 @@ Clinic / medical Management System in php By Code Camp BD <br/>
 
 ## Admin Login Info Details
 
-userName: admin <br/> passWord: Watch Youtube Video () <br/>
+userName: admin@ccbd.com <br/> 
+passWord: Watch Youtube Video () <br/>
 
 ## Doctor Login Info Details <br/>
 
-userName: ccbd <br/> passWord: Watch Youtube Video ()
+userName: ccbd <br/> 
+passWord: Watch Youtube Video ()
 
 Subcribe my You tube Channel ** Subscribe **
 
