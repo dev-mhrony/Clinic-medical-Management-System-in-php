@@ -30,11 +30,11 @@ Clinic / medical Management System in php By Code Camp BD <br/>
 
 ## Admin Login Info Details
 
-userName: admin@ccbd.com <br/> passWord: Watch Youtube <a hearf ="https://youtu.be/8ipv81cdGSE"> Video </a> <br/>
+userName: admin@ccbd.com <br/> passWord: Watch Youtube <a href = "https://youtu.be/8ipv81cdGSE" target="_blank"> Video </a> <br/>
 
 ## Doctor Login Info Details <br/>
 
-userName: ccbd <br/> passWord: Watch Youtube Video ()
+userName: ccbd <br/> passWord: Watch Youtube <a href = "https://youtu.be/8ipv81cdGSE"> Video </a>
 
 Subcribe my You tube Channel ** Subscribe **
 
