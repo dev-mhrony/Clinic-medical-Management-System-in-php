@@ -30,7 +30,7 @@ Clinic / medical Management System in php By Code Camp BD <br/>
 
 ## Admin Login Info Details
 
-userName: admin@ccbd.com <br/> passWord: Watch Youtube Video () <br/>
+userName: admin@ccbd.com <br/> passWord: Watch Youtube <a hearf ="https://youtu.be/8ipv81cdGSE"> Video </a> <br/>
 
 ## Doctor Login Info Details <br/>
 
